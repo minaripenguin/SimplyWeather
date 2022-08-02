@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">@*android:color/system_accent1_100</color>
+    <color name="color_accent_500">@*android:color/system_accent1_50</color>
+    <color name="color_accent_600">@*android:color/system_accent1_100</color>
+    <color name="light_color_accent_100">@*android:color/system_accent1_100</color>
+    <color name="light_color_accent_200">@*android:color/system_accent1_200</color>
+    <color name="sw_background_color">@*android:color/system_neutral1_900</color>
+    <color name="sw_accent_color">@*android:color/system_accent1_100</color>
+    <color name="sw_text_color">@*android:color/system_neutral1_900</color>
+    <color name="sw_text_highlight_color">@*android:color/system_accent1_200</color>
+    <color name="sw_button_color">@*android:color/system_accent1_100</color>
+    <color name="sw_card_color">@*android:color/system_accent1_100</color>
+</resources>
