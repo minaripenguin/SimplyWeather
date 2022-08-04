@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SimplyWeather</string>
-    <string name="retrieve">Fetch weather information</string>
-    <string name="cityHint">City name</string>
-    <string name="countryHint">Country code (optional)</string>
-    <string name="loadingWeather">Fetching previous location weather data...</string>
-    <string name="cityIsEmpty">Please enter a city name to continue..</string>
-    <string name="toastError">It seems like we\'re having difficulty retrieving data, please try again later.</string>
-    <string name="lastCachedResults">Offline weather statistics</string>
-    <string name="UpToDateInfo">Up-to-date weather statistics</string>
-    <string name="refresh">Refresh</string>
+    <string name="app_name">Hava Durumu</string>
+    <string name="retrieve">Hava durumu bilgisini al</string>
+    <string name="cityHint">Şehir adı</string>
+    <string name="countryHint">Ülke kodu (isteğe bağlı)</string>
+    <string name="loadingWeather">Önceki konum hava durumu bilgisi alınıyor...</string>
+    <string name="cityIsEmpty">Lütfen devam etmek için şehir adı girin..</string>
+    <string name="toastError">Veriler alınırken problem yaşanıyor, lütfen daha sonra tekrar deneyin.</string>
+    <string name="lastCachedResults">Çevrimdışı hava durumu istatistikleri</string>
+    <string name="UpToDateInfo">Güncel hava durumu istatistikleri</string>
+    <string name="refresh">Yenile</string>
 </resources>
